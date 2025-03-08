@@ -49,6 +49,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 3. Chart and Visual Types
 Visual Types : Cards , Metrics , Donut Chart , Clustered Bar Chart , Funnel Chart , Line Chart , Matrix.
 Chart's Requirement:
+
 1.Total Sales by Fat content:
 	Objectives : Analyze the impact of fat content on total sales.
 	Additional KPI Metrics : Assess how other KPI'S (Average sales , Number of items             Average rating ) vary with fat content.
@@ -83,6 +84,7 @@ Chart's Requirement:
 
 
 4. Key Findings
+
 4.1 Sales Performance
 Total Sales: $1.20M
 Average Sales Per Transaction: $141
